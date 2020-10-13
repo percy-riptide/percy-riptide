@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-percyriptide.netlify.app
+https://percyriptide.netlify.app
 <!--
 **percy-riptide/percy-riptide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
