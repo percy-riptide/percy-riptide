@@ -1,4 +1,4 @@
-### Hi there 👋
+### Check This Out
 
 https://percyriptide.netlify.app
 <!--
